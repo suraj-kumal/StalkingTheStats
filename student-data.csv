@@ -1,0 +1,6 @@
+name,is_student,target,birthday
+Alice,True,85,2001-01-01
+Bob,False,90,2000-12-12
+Charlie,True,78,1999-07-21
+David,True,88,2002-09-14
+Alice,True,85,2001-01-01
